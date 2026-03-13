@@ -6,7 +6,7 @@ Supaya mahasiswa dapat menginvestigasi cara kerja protokol HTTP menggunakan Wire
 ## Langkah Percobaan
 1. Buka software wireshark anda
 2. Lalu klik bagian wifi (jika menggunakan wifi)
-3. Setelah itu buka browser anda terlebih dahuludan pastikan cache browser Anda dibersihkan (jika belum, hapus terlebih dahulu cache dan history browser anda)
+3. Setelah itu buka browser anda terlebih dahulu dan pastikan cache browser Anda dibersihkan (jika belum, hapus terlebih dahulu cache dan history browser anda)
 4. Jika sudah, mulai pengambilan paket Wireshark, dengan mengklik "start capturing packet"
 5. Saat Wireshark sedang berjalan, masukkan URL: http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html dan tampilkan halaman tersebut di browser anda. 
 6. Lalu balik lagi ke wireshark dan stop capturing packets atau pencet logo stop yang berwarna merah
