@@ -1,4 +1,4 @@
-# Laporan praktikum jarkom week14/Modul 14 DHCP
+# Laporan praktikum jarkom week14/Modul 14 802.11 WiFi 
 
 ## Tujuan Praktikum
 Mahasiswa dapat menginvestigasi cara kerja WiFi menggunakan Wireshark 
